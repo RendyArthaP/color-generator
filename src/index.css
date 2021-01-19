@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.color {
+  padding: 1rem;
+  cursor: pointer;
+  color: black;
+  font-size: 1rem;
+  width: 10rem;
+  height: 10rem;  
+}
+
+.color-light {
+  padding: 1rem;
+  cursor: pointer;
+  color: white;
+  font-size: 1rem;
+  width: 10rem;
+  height: 10rem; 
+}
