@@ -13,5 +13,6 @@
 4. Run the apps with `npm start`
 
 Thank you
+
 I already deploy this at:
 https://rendy-color-generator.netlify.app/
